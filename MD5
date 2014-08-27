@@ -1,0 +1,10 @@
+b7b2628075cbd8e4ffb34622ca09e38a *DESCRIPTION
+96333016c85bf1b6c55f27631dff147e *LICENSE
+a801e33d5bc66ee12a0692b7115f2f43 *NAMESPACE
+9a3266ccedace41c92941c80a85164e9 *R/statebins-package.R
+0d37df8b395921f8bd9947ba82867942 *R/statebins.R
+7913cc87f4d3921f7af3ea4efcc5adfb *man/statebins-package.Rd
+0d248c9963ede262c7d6b5edbc79b7b8 *man/statebins.Rd
+54c8d8cdf518618d505ffc4be8a1c43e *man/statebins_continuous.Rd
+84c39866bdf818c103e395d417f18eb0 *tests/test-all.R
+ad09493096650ca0f03340c67afdaf8d *tests/testthat/test-statebins.R
